@@ -1,0 +1,15 @@
+.app {
+  text-align: center;
+}
+
+.custom-header {
+  border-bottom: solid #DA2731;
+  min-height: 70px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: white !important;
+  margin-bottom: 2vh;
+}
+
