@@ -8,6 +8,7 @@
 #### Running the backend
  - ```cd ..```
  - ```pip install -r requirements.txt```
+ - ```cd server```
  - ```python server.py db``` to flush database or ```python server.py```
 
 Go to `http://localhost:5000/` to run app.
