@@ -23,4 +23,4 @@ class User(db.Model):
   password = db.Column(db.String(30), nullable=False)
 
   def __repr__(self):
-    return '<User {}'.format(self.email)
+    return '<User {}>'.format(self.email)
